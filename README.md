@@ -1,3 +1,5 @@
+> **Practice project, not original work.** This repository follows the 3-country population Power BI dashboard by [suyogpatil395](https://github.com/suyogpatil395/PowerBI-Dashboard-3-Country-Population). The dashboard design and images are theirs. I worked through it to practise Power BI. All credit to the original author.
+
 # 🌍 PowerBI Dashboard – 3 Country Population Analysis
 
 This project presents an interactive **Power BI dashboard** that analyzes population data for three countries.  
